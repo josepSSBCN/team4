@@ -13,7 +13,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.j2digital.team5.exceptions.AttributeException;
-import com.j2digital.team5.model.domain.CenterInfo;
 import com.j2digital.team5.security.domain.Usuario;
 import com.j2digital.team5.security.dto.CreateUserDto;
 import com.j2digital.team5.security.dto.JwtTokenDto;
